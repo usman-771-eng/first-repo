@@ -1,2 +1,3 @@
 # first-repo
-this is the first repositoy
+This is the first repositoy.
+Auther - MAHAMMAD USMAN
